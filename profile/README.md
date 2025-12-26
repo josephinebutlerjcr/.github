@@ -15,4 +15,6 @@ directly to AWS Lambda.
 
 If things go wrong, feel free to get in touch!
 
+> If, for some reason, I am not contactable, another "owner" of this GitHub repositary (as of December 2025) is the 2025-26 FACSO, Adam.
+
 The domain is held on Porkbun.
